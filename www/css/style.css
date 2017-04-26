@@ -299,3 +299,8 @@ div.colorExample {
 	width:    100%;
 	height:   300px;
 }
+.gallery {
+	width: 365px;
+	padding: 5px;
+	margin: 0;
+}
